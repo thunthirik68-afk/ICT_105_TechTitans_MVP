@@ -56,4 +56,4 @@ A web-based reporting platform where users can submit water-related issues with 
 HTML/CSS/JavaScript, database, image upload feature, GPS/location services, status tracking system.
 
 ### Why This is Suitable
-The system is practical, easy to prototype, and combines web development, database design, and user interaction features to improve public safety and community engagement.
+The system is practical, easy to prototype, and combines web development, database design, and user interaction features to improve public safety and community engagement. 
