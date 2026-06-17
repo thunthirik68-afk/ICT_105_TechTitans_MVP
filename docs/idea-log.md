@@ -1,59 +1,83 @@
 # Initial IT Venture Idea Log
-## Idea 1: Community Water Quality Monitoring System
+
+## Idea 1: QR Code Lecture Attendance System
+
 ### Problem Area
-Residents are often unaware when local water sources become contaminated and unsafe for drinking or daily use.
+
+Lecturers spend valuable class time taking attendance manually, which is time-consuming and may result in inaccurate or proxy attendance records.
 
 ### Target Users
-Local residents, environmental agencies, and community leaders.
+
+University students, lecturers, and university administrators.
 
 ### Current Alternative
-People rely on periodic government reports or news announcements, which may not provide timely information.
+
+Attendance is recorded using paper sign-in sheets, verbal roll calls, or basic online attendance systems.
 
 ### Proposed IT Solution
-A web-based platform that displays water quality information, contamination alerts, and safety recommendations for nearby water sources.
+
+A web-based or mobile application that allows lecturers to generate a unique QR code for each class. Students scan the QR code to record their attendance, while lecturers can monitor attendance records and generate reports in real time.
 
 ### Possible Technology
-HTML/CSS/JavaScript, database, dashboard with charts, notification system.
+
+HTML/CSS/JavaScript, MySQL or Firebase database, QR code generation and scanning, user authentication, dashboard.
 
 ### Why This is Suitable
-The system can be prototyped using web development, database management, and data visualization techniques while addressing a real public safety concern.
 
----
-## Idea 2: Flood and Water Hazard Alert System
+The system improves attendance accuracy, reduces classroom time spent on attendance, and provides secure digital records using fundamental web development technologies.
+
+⸻
+
+## Idea 2: Online Course Registration System
+
 ### Problem Area
-Communities near rivers or lakes may not receive early warnings about rising water levels and potential flooding.
+
+Students often experience difficulties during course registration due to schedule conflicts, limited course availability, and manual registration processes.
 
 ### Target Users
-Residents in flood-prone areas, emergency responders, and local authorities.
+
+University students, lecturers, and academic administrators.
 
 ### Current Alternative
-People rely on weather forecasts, social media, or local announcements, which may be delayed.
+
+Students register using paper forms or existing university registration systems that may be slow or difficult to navigate.
 
 ### Proposed IT Solution
-A web-based alert system that monitors water levels and sends notifications when flood risks are detected.
+
+A web-based course registration system where students can browse available courses, check seat availability, register online, and receive instant confirmation.
 
 ### Possible Technology
-HTML/ CSS/ JavaScript, database, notification service, maps integration.
+
+HTML/CSS/JavaScript, MySQL or Firebase database, user authentication, notification system, dashboard.
 
 ### Why This is Suitable
-The project focuses on public safety and can be developed using web technologies, real-time data handling, and user-centered design.
 
----
-## Idea 3:  Water Issue Reporting and Tracking Platform
+The system simplifies the course registration process, reduces administrative workload, and improves the overall student experience while demonstrating database management and web application development.
+
+⸻
+
+## Idea 3: Smart Campus Parking System
+
 ### Problem Area
-Residents often do not know how to report water-related issues such as pollution, leaks, blocked drains, or unsafe water conditions.
+
+Students and staff often spend significant time searching for available parking spaces, especially during peak hours, causing congestion and delays.
 
 ### Target Users
-Community residents, environmental agencies, and local government staff.
+
+University students, lecturers, campus staff, and university administrators.
 
 ### Current Alternative
-People report problems through phone calls, social media posts, or in-person visits to government offices.
+
+Drivers search for parking spaces manually or rely on campus security for parking guidance.
 
 ### Proposed IT Solution
-A web-based reporting platform where users can submit water-related issues with photos, location details, and descriptions while tracking the status of their reports.
+
+A web-based parking management system that displays available parking spaces in real time, allows users to reserve parking spots, and provides digital parking permits using QR codes.
 
 ### Possible Technology
-HTML/CSS/JavaScript, database, image upload feature, GPS/location services, status tracking system.
+
+HTML/CSS/JavaScript, MySQL or Firebase database, GPS/Maps integration, QR code verification, dashboard.
 
 ### Why This is Suitable
-The system is practical, easy to prototype, and combines web development, database design, and user interaction features to improve public safety and community engagement. 
+
+The system improves parking management, reduces traffic congestion, and enhances convenience for campus users while applying web development, database management, and location-based technologies.
