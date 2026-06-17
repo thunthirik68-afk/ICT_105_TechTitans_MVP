@@ -75,11 +75,11 @@ This idea aims to help students and staff find available parking spaces and redu
 
 ## Evidence of Work
 
-- Opportunity scan file: Completed
-- NUF scoring file: Completed
+- Opportunity scan file: 
+- NUF scoring file: 
 - Selected opportunity file: QR code attendance system with GPS verification
-- GitHub issue screenshot: Attached
-- Commit link: Submitted
+- GitHub issue screenshot: 
+- Commit link: 
 
 ## Plan for Lab 03
 
