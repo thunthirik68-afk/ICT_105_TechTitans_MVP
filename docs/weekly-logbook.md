@@ -77,10 +77,10 @@ This idea aims to help students and staff find available parking spaces and redu
 
 - Opportunity scan file: https://github.com/thunthirik68-afk/ICT_105_TechTitans_MVP/blob/main/docs/opportunity-scan.md
 - NUF scoring file: https://github.com/thunthirik68-afk/ICT_105_TechTitans_MVP/blob/main/data/opportunity-scoring.xlsx
-- Selected opportunity file: QR code attendance system with GPS verification
+- Selected opportunity file: [QR code attendance system with GPS verification](selected-opportunity.md)
 - GitHub issue screenshot:  <img width="1886" height="962" alt="issue" src="https://github.com/user-attachments/assets/db5dcb92-2760-44e9-97e1-16920ea8b986" />
 
-- Commit link: 
+- Commit link: https://github.com/thunthirik68-afk/ICT_105_TechTitans_MVP/commit/3f11ef1e365b88c1d56aa7741b834c1474ab58cf
 
 ## Plan for Lab 03
 
